@@ -25,3 +25,9 @@ npm i
 ```
 npm run dev
 ```
+
+### Adding plugins and dependencies
+
+```
+    npm i @reduxjs/toolkit react-redux react-router-dom react-icons react-chartjs-2 chart.js axios react-hot-toast
+```
